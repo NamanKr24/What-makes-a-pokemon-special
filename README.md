@@ -6,4 +6,6 @@ In this project, I have performed an in-depth analysis over various variables re
 
 I have also built a classification model to predict whether a pokemon is legendary, mythical or neither. The model uses random forest classification model to perform this multi-class classification.
 
+The insights gained have been discussed and can be found in the 'Special_Pokemon.md' file.
+
 The dataset for this project was taken from Kaggle and tweaked with a bit for it to be in its current state.
